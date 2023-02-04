@@ -1,2 +1,3 @@
 # Binoxxo
- Beleg für Prog2
+
+Binäres Rätselspiel in C++ als Prog2-Beleg
